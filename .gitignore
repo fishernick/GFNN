@@ -1,4 +1,6 @@
 models/*
-datasets/*
+!models/
 !models/.gitkeep
+datasets/*
+!datasets/
 !datasets/.gitkeep
